@@ -1,4 +1,4 @@
-# **DATA JOBS DASHBOARD W/ POWER BI**
+# **DATA JOBS DASHBOARD 2.0 W/ POWER BI**
 ![Dashboard Page 1 ](/Assest/DataDashboard.png)
 
 [Explore the interactive version of this dashboard directly on the Power BI Service.](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
