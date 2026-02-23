@@ -12,7 +12,7 @@ To access the Power BI dashboard file, use the following link:
 ## 🔹 **Skills Demonstrated**
 **This project highlights a range of Power BI techniques and features:**
 
-* **🎨 Dashboard Design**: Crafting an intuitive and visually appealing report layout.
+* **👩‍💻 Dashboard Design**: Crafting an intuitive and visually appealing report layout.
 
 * **🔁 Power Query ETL**: Performing data cleaning, shaping, and transformation.
 
