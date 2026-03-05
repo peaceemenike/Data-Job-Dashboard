@@ -46,4 +46,4 @@ This page serves as a central hub for navigating the data job market. It highlig
 
 
 ## 🔹 **Conclusion**
-This updated dashboard highlights how Power BI can turn large volumes of job posting data into a streamlined and effective career analysis tool. It is designed to assist **job seekers, career changers, and role switchers** by enabling them to explore crucial job market insights on a single page—helping them make informed choices for their next career step.
+This updated dashboard highlights how Power BI can turn large volumes of job posting data into a streamlined and effective career analysis tool. It is designed to assist **job seekers, career changers, and role switchers** by enabling them to explore crucial job market insights on a single page—helping them make informed choices for their next career step. feel free to explore the material.
