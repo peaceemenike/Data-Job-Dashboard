@@ -1,7 +1,7 @@
 # **DATA JOBS DASHBOARD W/ POWER BI**
 [![Dashboard Page 1 ](/Assest/DataDashboard.png)](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 
-[Explore the interactive version of this dashboard directly on the Power BI Service.](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
+[Explore the interactive version of this dashboard directly on Power BI Service.](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 ## 🔹 **Introduction**
 Exploring the data job market can often feel overwhelming and challenging, with details scattered across different sources. **This version dashboard is tailored for job seekers, individuals transitioning careers, and professionals** switching roles—helping them navigate more effectively. Built using actual 2024 job data, which includes salary, title, and location insights, *the dashboard provides a simplified and unified platform for understanding job market trends and compensation data*. Feel free to explore the tools.
 
