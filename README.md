@@ -10,7 +10,7 @@ To access the Power BI dashboard file, use the following link:
 [Data_Jobs_Dashboard.pbix](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
 
 ## 🔹 **Skills Demonstrated**
-**This project highlights a range of Power BI techniques and features:**
+**These project highlights a range of Power BI techniques and features:**
 
 * **👩‍💻 Dashboard Design**: Crafting an intuitive and visually appealing report layout.
 
