@@ -35,7 +35,7 @@ To access the Power BI dashboard file, use the following link:
   * *Buttons & Bookmarks* for smooth, seamless navigation.
 
 
-## 🔹 **📊 Dashboard Overview**
+## 🔹 ** Dashboard Overview**
 This second iteration consolidates the dashboard into a single, focused page, designed to give job seekers the most critical market insights at their fingertips.
 
 [![Dashboard Page 1](/Assest/DataDashboard.png)](https://app.powerbi.com/links/LIn5zs2UfU?ctid=a37c2367-cf18-441f-93e5-85d7db0d493d&pbi_source=linkShare)
